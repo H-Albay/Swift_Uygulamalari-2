@@ -1,5 +1,5 @@
 import UIKit
 
-var str = "test"
+var str = "test2"
 print(str)
 
